@@ -1,0 +1,1 @@
+A comprehensive job seeking platform built using the MERN stack (MongoDB, Express, React, Node.js). It connects job seekers with potential employers, providing a seamless and efficient job search experience
